@@ -9,6 +9,7 @@ Here are a few key points to pay attention to in the project:
     * Package `di` has `ServerModule` and `DispatchModule` for DI use
     * Package `domain` has `repository` and `usecase` layer
     * Package `data` has `Movie` data classes inside
+    * Package `ui` has UI related classes
 3. Network
     * Network stack is covered by Retrofit2
 4. additional libs, Picaso (for Images), mockk (for UNIT test)
